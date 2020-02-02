@@ -1,9 +1,9 @@
 {
 	"enabled": true,
-	"token": "enter-token-here",
-	"channelId": "588548714197418026",
+	"token": "NTgxNTgyMTAxNjQ4OTAwMDk5.XjZC5g.XPatf7m8zPQVW4h-x-zGqHv3Mdc",
+	"channelId": "558123122377883659",
 	"regex": "Hello .+, i have created a ticket for you! <#(\\d*)>",
-	"keywords": ["dd", "doordash", "door dash"],
+	"keywords": ["@apply"],
 	"reply": "send order",
 	"delay": 1250,
 	"debug": false
